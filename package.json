@@ -12,5 +12,10 @@
   "bin": {
     "random-str-msg-deom": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/David-Ostos/random-str-msg-deom"
+  },
+  "homepage": "https://github.com/David-Ostos/random-str-msg-deom#readme"
 }
